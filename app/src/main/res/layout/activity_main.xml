@@ -21,10 +21,10 @@
         android:id="@+id/btnSend"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="SEND" />
+        android:text="Button" />
 
     <TextView
-        android:id="@+id/textView2"
+        android:id="@+id/tvDisplay"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="TextView"
@@ -34,3 +34,5 @@
 
 
 </LinearLayout>
+
+
